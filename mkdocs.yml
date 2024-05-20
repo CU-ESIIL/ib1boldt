@@ -1,11 +1,11 @@
 site_name: 'HYR-SENSE workshop'
 site_description: 'Central resource for NASA-ESIIL HYR-SENSE workshop'
 site_author: ESIIL and NASA staff
-site_url: https://cu-esiil.github.io/HYR-SENSE
+site_url: https://cu-esiil.github.io/HYR-SENSE-ib1boldt
 
 # Repository
-repo_name: HYR-SENSE-ib1boldt
-repo_url: https://github.com/CU-ESIIL/HYR-SENSE/ib1boldt
+repo_name: ib1boldt
+repo_url: https://github.com/CU-ESIIL/ib1boldt
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
